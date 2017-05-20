@@ -1,12 +1,12 @@
 # cybercrawler
 Developing a web-crawler that will crawl news site and pull info/aritcles related to cyber security
 
-    I have written a cyber news crawler for my project for CS 645.  Which will crawl various predefined
+I have written a cyber news crawler for my project for CS 645.  Which will crawl various predefined
 websites and search for articles pertaining to various keywords that are in the system.  The sites and 
 keywords can be appended to by either using the maintenance option in the program or by editing the 
 links.txt and keywords.txt documents respectivley.
 
-   In order to run the program, there are a couple of libraries that need to be installed. These libraries
+In order to run the program, there are a couple of libraries that need to be installed. These libraries
 are listed below:
 
 -You will need to install BeautifulSoup. This is different depending on your system. Below is installation
