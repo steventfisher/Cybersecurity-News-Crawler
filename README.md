@@ -11,10 +11,12 @@ are listed below:
 
 -You will need to install BeautifulSoup. This is different depending on your system. Below is installation
 using pip.
+
 pip install BeautifulSoup4
 
 -You will need to install lxml. This is different depending on your system. Below is installation
 using pip.
+
 pip install lxml
 
 In addition to the keyword and links documents, there is also a list of words that would invalidate a link.
