@@ -1,5 +1,5 @@
 # Cybersecurity News Crawler
-There are numerous Cybersecurity news sites on the web.  This application is used to try and collaborate those stories.
+Beginning Development of a web-crawler that will crawl news site and pull info/aritcles related to cyber security
 
 I have written a cybersecurity news crawler for my project for CS 645(Internet Security) at UNR.  
 Which will crawl various predefined websites and search for articles pertaining to various keywords that are in the system.  The sites and keywords can be appended to by either using the maintenance option in the program or by editing the 
@@ -24,7 +24,3 @@ In addition to the keyword and links documents, there is also a list of words th
 
 Upon completion of running the program will generate an html document with links to all the articles
 collected, the user is then given a choice as to whether or not open the link.
-
-#License
-
-Cybersecurity-News-Crawler is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/steventfisher/Cybersecurity-News-Crawler/blob/master/LICENSE).
