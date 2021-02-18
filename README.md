@@ -25,6 +25,14 @@ In addition to the keyword and links documents, there is also a list of words th
 Upon completion of running the program will generate an html document with links to all the articles
 collected, the user is then given a choice as to whether or not open the link.
 
-#License
+# Road-map
+What I plan on adding to the Cybersecurity-News-Crawler is as follows in no particular order:
+* Write crawled sites to a database in order to maintain a history
+* Dynamically locate to webiste to crawl baased on search results
+* allow the addition of blocked words based on flagging
+* store list of news sites in database
+* create front-end in and reformat results in order to make more user friendly.
+
+# License
 
 Cybersecurity-News-Crawler is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/steventfisher/Cybersecurity-News-Crawler/blob/master/LICENSE).
